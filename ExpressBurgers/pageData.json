@@ -1,0 +1,36 @@
+{
+  "welcome": "Welcome To Express Burgers!",
+  "homeData": {
+    "h3": "We got the most expressy burgers on the market!",
+    "p1": "Have you ever had the urge to go get burgers at Midnight? We can help! Just order 3 hours before then when we're still open!",
+    "p2": "Express Burgers offers the best selection of Burgers, High Quality Drinks, and All you can eat desserts for the cost of however much you order!"
+  },
+  "directionsData": {
+    "location": "We're located at 300-398 Cottage Ave S",
+    "specificLocal": "We Here vvv"
+  },
+  "menuMainCourseData": {
+    "food1": "Burger $1.00",
+    "food2": "Slopper $3.00",
+    "food3": "Slugburger $5.00",
+    "food4": "Umami $5.50",
+    "food5": "Pug $4.00"
+  },
+  "menuDrinksData": {
+    "drink1": "Water $1.00",
+    "drink2": "Gaterade $3.00",
+    "drink3": "Soda $3.00",
+    "drink4": "Diet Soda $3.00",
+    "drink5": "Float $4.00"
+  },
+  "menuDessertsData": {
+    "dessert1": "Big Cookie $1.00",
+    "dessert2": "Bowl of Ice Cream $3.00",
+    "dessert3": "Cheese Cake $3.00",
+    "dessert4": "Brownie $2.00",
+    "dessert5": "Cup Cake $2.00"
+  },
+  "aboutUsData": {
+    "aboutUs": "We are just a group of students who had to make a website that sold things on a lot of new technology that we kinda just had to mess around with!"
+  }
+}

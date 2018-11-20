@@ -3,8 +3,19 @@ html
   head
     link(href='style.css' rel='stylesheet')
   body
-    header
-      nav
+    div(class='logo')
+      img(src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png')
+    div(class='navbar', onclick='myFunction()')
+      a(href = '../') Home
+      div(class='dropdown')
+        button(class='dropbtn', onclick='myFunction()') Menu
+          i.fa.fa-caret-down
+        div(class='dropdown-content', id='myDropdown')
+          a(href='../mainCourse') Main Course
+          a(href='../drinks') Drinks
+          a(href='../desserts') Desserts
+      a(href = '../directions') Directions
+      a(href = '../aboutUs') About Us
     h1 #{title}
     block content
     footer
